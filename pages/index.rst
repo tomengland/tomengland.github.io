@@ -8,4 +8,3 @@
 .. type: text
 
 Write your page here.
-test3
