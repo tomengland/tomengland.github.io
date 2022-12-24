@@ -1454,19 +1454,3 @@ CONTENT_FOOTER = """
     </p>
 </div>
 """
-SEARCH_FORM = (
-    """
-<!-- Google custom search -->
-<form method="get" action="https://www.google.com/search" class="navbar-form navbar-right" role="search">
-    <div class="input-group">
-        <input type="text" name="q" class="form-control" placeholder="Search">
-        <button type="submit" class="btn btn-secondary">
-            <i class="fa fa-search"></i>
-        </button>
-        <input type="hidden" name="sitesearch" value="%s">
-    </div>    
-</form>
-<!-- End of custom search -->
-"""
-    % SITE_URL
-)
