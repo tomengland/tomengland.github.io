@@ -15,7 +15,7 @@ If you can see this in a web browser, it means you managed to install Nikola,
 and build a site using it. Congratulations!
 
 .. code-block:: python
-
-   import numpy as np
+    
+    import numpy as np
 
 Send feedback to info@getnikola.com!
