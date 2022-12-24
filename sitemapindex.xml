@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://tomengland.io/authors/roberto-alsina.xml</loc>
-  <lastmod>2022-12-24T06:19:00Z</lastmod>
+  <lastmod>2022-12-24T06:22:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://tomengland.io/authors/thomas-england.xml</loc>
@@ -15,23 +15,23 @@
  </sitemap>
  <sitemap>
   <loc>https://tomengland.io/categories/blog.xml</loc>
-  <lastmod>2022-12-24T06:19:00Z</lastmod>
+  <lastmod>2022-12-24T06:22:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://tomengland.io/categories/cat_nikola.xml</loc>
-  <lastmod>2022-12-24T06:19:00Z</lastmod>
+  <lastmod>2022-12-24T06:22:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://tomengland.io/categories/demo.xml</loc>
-  <lastmod>2022-12-24T06:19:00Z</lastmod>
+  <lastmod>2022-12-24T06:22:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://tomengland.io/categories/nikola.xml</loc>
-  <lastmod>2022-12-24T06:19:00Z</lastmod>
+  <lastmod>2022-12-24T06:22:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://tomengland.io/categories/python.xml</loc>
-  <lastmod>2022-12-24T06:19:00Z</lastmod>
+  <lastmod>2022-12-24T06:22:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://tomengland.io/galleries/demo/rss.xml</loc>
@@ -43,10 +43,10 @@
  </sitemap>
  <sitemap>
   <loc>https://tomengland.io/rss.xml</loc>
-  <lastmod>2022-12-24T06:19:00Z</lastmod>
+  <lastmod>2022-12-24T06:22:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://tomengland.io/sitemap.xml</loc>
-  <lastmod>2022-12-24T06:19:00Z</lastmod>
+  <lastmod>2022-12-24T06:22:00Z</lastmod>
  </sitemap>
 </sitemapindex>
