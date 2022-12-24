@@ -3,10 +3,23 @@
 &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
 &lt;img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Sat, 24 Dec 2022 05:55:04 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Welcome to Nikola</title><link>https://tomengland.io/blog/welcome-to-nikola/</link><dc:creator>Roberto Alsina</dc:creator><description>&lt;figure&gt;
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Sat, 24 Dec 2022 06:13:00 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Welcome to Nikola</title><link>https://tomengland.io/blog/welcome-to-nikola/</link><dc:creator>Roberto Alsina</dc:creator><description>&lt;figure&gt;
 &lt;a class="reference external image-reference" href="https://farm1.staticflickr.com/138/352972944_4f9d568680_z.jpg?zz=1"&gt;&lt;img alt="Nikola Tesla Corner by nicwest, on Flickr" class="thumbnail" src="https://farm1.staticflickr.com/138/352972944_4f9d568680.jpg"&gt;&lt;/a&gt;
 &lt;/figure&gt;
 &lt;p&gt;If you can see this in a web browser, it means you managed to install Nikola,
 and build a site using it. Congratulations!&lt;/p&gt;
-&lt;p&gt;Next steps:&lt;/p&gt;
+&lt;dl class="simple"&gt;
+&lt;dt&gt;::&lt;/dt&gt;
+&lt;dd&gt;&lt;p&gt;This is a test of the double colons.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;aside class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;span class="docutils literal"&gt;&amp;lt;string&amp;gt;&lt;/span&gt;, line 12)&lt;/p&gt;
+&lt;p&gt;Error in "code-block" directive:
+maximum 1 argument(s) allowed, 5 supplied.&lt;/p&gt;
+&lt;pre class="literal-block"&gt;.. code-block:: python
+   import numpy as np
+
+&lt;/pre&gt;
+&lt;/aside&gt;
 &lt;p&gt;Send feedback to &lt;a class="reference external" href="mailto:info@getnikola.com"&gt;info@getnikola.com&lt;/a&gt;!&lt;/p&gt;</description><category>blog</category><category>demo</category><category>nikola</category><category>python</category><guid>https://tomengland.io/blog/welcome-to-nikola/</guid><pubDate>Fri, 30 Mar 2012 10:00:00 GMT</pubDate></item></channel></rss>
