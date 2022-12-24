@@ -64,6 +64,8 @@ bg-dark
 </nav><!-- End of Menubar --><div class="container" id="content" role="main">
     <div class="body-content">
         <!--Body content-->
+        {{ template_hooks['page_header']() }}
+        {% block extra_header %}{% endblock %}
         
 <article class="authorpage"><header><h1>Posts by Roberto Alsina</h1>
         <div class="metadata">
