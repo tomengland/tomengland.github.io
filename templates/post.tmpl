@@ -11,7 +11,6 @@
     % if post.meta('keywords'):
     <meta name="keywords" content="${smartjoin(', ', post.meta('keywords'))|h}">
     % endif
-    <meta name="author" content="${post.author()|h}">
     %if post.prev_post:
         <link rel="prev" href="${post.prev_post.permalink()}" title="${post.prev_post.title()|h}" type="text/html">
     %endif
