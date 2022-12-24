@@ -240,7 +240,7 @@ POSTS = (
     ("posts/*.ipynb", "blog", "post_ipynb.tmpl"),  # new line
 )
 PAGES = (
-    ("pages/*.rst", "", "base.tmpl"),
+    ("pages/*.rst", "", "page.tmpl"),
     ("pages/*.md", "", "page.tmpl"),
     ("pages/*.txt", "", "page.tmpl"),
     ("pages/*.html", "", "page.tmpl"),
