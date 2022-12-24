@@ -1,6 +1,6 @@
 .. title: Nikola, Jupyter Notebooks, and maybe Coffee
 .. slug: how-this-works
-.. date: 2022-12-31
+.. date: 2022-12-20
 .. tags: python, demo, blog
 .. author: Thomas England
 .. description:
