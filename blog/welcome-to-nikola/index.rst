@@ -16,10 +16,10 @@ and build a site using it. Congratulations!
 
 Next steps:
 
-* :doc:`Read the manual <handbook>`
-* `Visit the Nikola website to learn more <https://getnikola.com>`__
-* `See a demo photo gallery <link://gallery/demo>`__
-* :doc:`See a demo listing <listings-demo>`
-* :doc:`See a demo of a longer text <dr-nikolas-vendetta>`
+* :doc:`Read the manual`
+* `Visit the Nikola website to learn more`
+* `See a demo photo gallery`
+* :doc:`See a demo listing`
+* :doc:`See a demo of a longer text`
 
 Send feedback to info@getnikola.com!

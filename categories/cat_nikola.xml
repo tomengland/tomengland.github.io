@@ -3,31 +3,31 @@
 &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
 &lt;img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Sat, 24 Dec 2022 05:52:54 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Welcome to Nikola</title><link>https://tomengland.io/blog/welcome-to-nikola/</link><dc:creator>Roberto Alsina</dc:creator><description>&lt;figure&gt;
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Sat, 24 Dec 2022 05:54:31 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Welcome to Nikola</title><link>https://tomengland.io/blog/welcome-to-nikola/</link><dc:creator>Roberto Alsina</dc:creator><description>&lt;figure&gt;
 &lt;a class="reference external image-reference" href="https://farm1.staticflickr.com/138/352972944_4f9d568680_z.jpg?zz=1"&gt;&lt;img alt="Nikola Tesla Corner by nicwest, on Flickr" class="thumbnail" src="https://farm1.staticflickr.com/138/352972944_4f9d568680.jpg"&gt;&lt;/a&gt;
 &lt;/figure&gt;
 &lt;p&gt;If you can see this in a web browser, it means you managed to install Nikola,
 and build a site using it. Congratulations!&lt;/p&gt;
 &lt;p&gt;Next steps:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href="https://tomengland.io/blog/welcome-to-nikola/#system-message-1"&gt;&lt;span class="problematic" id="problematic-1"&gt;:doc:`Read the manual &amp;lt;handbook&amp;gt;`&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="https://tomengland.io/blog/welcome-to-nikola/#system-message-1"&gt;&lt;span class="problematic" id="problematic-1"&gt;:doc:`Read the manual`&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;aside class="system-message" id="system-message-1"&gt;
 &lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;span class="docutils literal"&gt;&amp;lt;string&amp;gt;&lt;/span&gt;, line 11); &lt;em&gt;&lt;a href="https://tomengland.io/blog/welcome-to-nikola/#problematic-1"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;"handbook" slug doesn't exist.&lt;/p&gt;
+&lt;p&gt;"read-the-manual" slug doesn't exist.&lt;/p&gt;
 &lt;/aside&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://getnikola.com"&gt;Visit the Nikola website to learn more&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://tomengland.io/galleries/demo/"&gt;See a demo photo gallery&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href="https://tomengland.io/blog/welcome-to-nikola/#system-message-2"&gt;&lt;span class="problematic" id="problematic-2"&gt;:doc:`See a demo listing &amp;lt;listings-demo&amp;gt;`&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;cite&gt;Visit the Nikola website to learn more&lt;/cite&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;cite&gt;See a demo photo gallery&lt;/cite&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="https://tomengland.io/blog/welcome-to-nikola/#system-message-2"&gt;&lt;span class="problematic" id="problematic-2"&gt;:doc:`See a demo listing`&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;aside class="system-message" id="system-message-2"&gt;
 &lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;span class="docutils literal"&gt;&amp;lt;string&amp;gt;&lt;/span&gt;, line 14); &lt;em&gt;&lt;a href="https://tomengland.io/blog/welcome-to-nikola/#problematic-2"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;"listings-demo" slug doesn't exist.&lt;/p&gt;
+&lt;p&gt;"see-a-demo-listing" slug doesn't exist.&lt;/p&gt;
 &lt;/aside&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href="https://tomengland.io/blog/welcome-to-nikola/#system-message-3"&gt;&lt;span class="problematic" id="problematic-3"&gt;:doc:`See a demo of a longer text &amp;lt;dr-nikolas-vendetta&amp;gt;`&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="https://tomengland.io/blog/welcome-to-nikola/#system-message-3"&gt;&lt;span class="problematic" id="problematic-3"&gt;:doc:`See a demo of a longer text`&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;aside class="system-message" id="system-message-3"&gt;
 &lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;span class="docutils literal"&gt;&amp;lt;string&amp;gt;&lt;/span&gt;, line 15); &lt;em&gt;&lt;a href="https://tomengland.io/blog/welcome-to-nikola/#problematic-3"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;"dr-nikolas-vendetta" slug doesn't exist.&lt;/p&gt;
+&lt;p&gt;"see-a-demo-of-a-longer-text" slug doesn't exist.&lt;/p&gt;
 &lt;/aside&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
