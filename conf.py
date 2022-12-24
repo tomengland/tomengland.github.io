@@ -25,7 +25,7 @@ SITE_URL = "https://tomengland.io/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://tomengland.io/"
 BLOG_EMAIL = "tom@tomengland.io"
-BLOG_DESCRIPTION = "Demo"  # (translatable)
+BLOG_DESCRIPTION = "musings of tom"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -142,9 +142,8 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/index.html", "Home"),
-        ("/bio/index.html", "Bio"),
         ("/archive.html", "Blog"),
+        ("/bio/index.html", "Bio"),
     ),
 }
 
@@ -1428,17 +1427,12 @@ CONTENT_FOOTER = """
 <div class="text-center">
     <p>
         <span class="fa-stack fa-2x">
-        <a href="https://github.com/<user_name>">
+        <a href="https://github.com/tomengland">
             <i class="fa fa-github-square fa-stack-2x"></i>
         </a>
         </span>
         <span class="fa-stack fa-2x">
-        <a href="https://scholar.google.com/citations?user=ID">
-            <i class="ai ai-google-scholar-square ai-2x"></i>
-        </a>
-        </span>
-        <span class="fa-stack fa-2x">
-        <a href="https://www.linkedin.com/in/ID">
+        <a href="https://www.linkedin.com/in/tomengland808">
             <i class="fa fa-square fa-stack-2x"></i>
             <i class="fa fa-linkedin fa-inverse fa-stack-1x"></i>
         </a>
@@ -1451,7 +1445,7 @@ CONTENT_FOOTER = """
         </span>
     </p>
     <p>
-        {license} Contents &copy; {date}  <a href="mailto:{email}">{author}</a> - Powered by <a href="https://getnikola.com" rel="nofollow">Nikola</a>
+        {license} Contents &copy; {date}  <a href="mailto:{email}">{author}</a>
     </p>
 </div>
 """
