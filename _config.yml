@@ -96,12 +96,12 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: "tomengland/tomengland.github.io"
-    repo_id: "R_kgDOJTxvrw"
-    category: "Announcements"
-    category_id: "DIC_kwDOJTxvr84CVmt1"
+    repo: tomengland/tomengland.github.io
+    repo_id: R_kgDOJTxvrw
+    category: Announcements
+    category_id: DIC_kwDOJTxvr84CVmt1
     mapping: # optional, default to 'pathname'
-    input_position: "top"
+    input_position: top
     lang: # optional, default to the value of `site.lang`
     reactions_enabled: # optional, default to the value of `1`
 
