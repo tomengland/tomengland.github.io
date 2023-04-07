@@ -86,7 +86,7 @@ avatar: /assets/images/tom.jpeg
 toc: true
 
 comments:
-  active: giscus
+  active: 'giscus'
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
